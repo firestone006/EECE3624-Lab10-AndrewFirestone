@@ -4,7 +4,7 @@
  *    Author: Dr. Greg Nordstrom & Prof. John Hutton
  *   Created: 12/30/17
  *  Modified: 3/28/19, 1/17/21, 11/13/2023
- * Processor: ATmega128A (on the ReadyAVR board)
+ * Processor: ATmega128A (on the RegggadyAVR board)
  *
  * This program implements a communication server by reading a character
  * from a UART Terminal and reflecting that character to the BT UART
